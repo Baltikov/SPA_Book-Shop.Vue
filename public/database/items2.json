@@ -1,0 +1,44 @@
+{
+    "7": {
+        "id": 7,
+        "name": "book7",
+        "price": 350,
+        "img": "./img/items_7.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Known."},
+    "8": {
+        "id": 8,
+        "name": "book8",
+        "price": 150,
+        "img": "./img/items_8.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Known."},
+    "9": {
+        "id": 9,
+        "name": "book9",
+        "price": 550, "img":
+        "./img/items_9.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Known."},
+    "10": {
+        "id": 10,
+        "name": "book10",
+        "price": 350,
+        "img": "./img/items_10.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Known."},
+    "11": {
+        "id": 11,
+        "name": "book11",
+        "price": 150,
+        "img": "./img/items_11.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Known."},
+    "12": {
+        "id": 12,
+        "name": "Шорты",
+        "price": 550,
+        "img": "./img/items_12.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Known"}
+}

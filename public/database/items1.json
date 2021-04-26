@@ -1,0 +1,50 @@
+{
+    "1": {
+        "id": 1,
+        "article": "Atr01",
+        "name": "Чистая архитектура",
+        "price": 350,
+        "img": "./img/items_1.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "«Идеальный программист» и «Чистый код»."},
+    "2": {
+        "id": 2,
+        "article": "Atr02",
+        "name": "Теоретический минимум",
+        "price": 150,
+        "img": "./img/items_2.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Изучение Computer Science может быть веселым и увлекательным занятием ."},
+    "3": {
+        "id": 3,
+        "article": "Atr03",
+        "name": " Грокаем алгоритмы.",
+        "price": 550, "img":
+        "./img/items_3.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Иллюстрированное пособие для программистов и любопытствующих."},
+    "4": {
+        "id": 4,
+        "article": "Atr04",
+        "name": "JavaScript. Подробное руководство",
+        "price": 350,
+        "img": "./img/items_4.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "6 Издание"},
+    "5": {
+        "id": 5,
+        "article": "Atr05",
+        "name": "Javascript и jQuery",
+        "price": 150, "img":
+        "./img/items_5.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Интерактивная веб-разработка."},
+    "6": {
+        "id": 6,
+        "article": "Atr0",
+        "name": "азы РНР7",
+        "price": 550,
+        "img": "./img/items_6.jpg",
+        "cart": "./img/basket_cart.svg",
+        "text": "Базовые функции."}
+}
